@@ -1,0 +1,13 @@
+# ignore everything
+/*
+/*/
+
+# ... but these:
+!/alacritty/
+!/kitty/
+!/ranger/
+ranger/plugins/__pycache__/*
+!/rofi/
+!/pip/
+!/zsh
+!/.gitignore
