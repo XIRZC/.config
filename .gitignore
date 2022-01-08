@@ -9,5 +9,5 @@
 ranger/plugins/__pycache__/*
 !/rofi/
 !/pip/
-!/zsh
+!/zsh/
 !/.gitignore
