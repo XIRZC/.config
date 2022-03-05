@@ -11,3 +11,4 @@ ranger/plugins/__pycache__/*
 !/pip/
 !/zsh/
 !/.gitignore
+!/sioyek/
